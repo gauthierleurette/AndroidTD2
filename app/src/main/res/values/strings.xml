@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserInterface</string>
+    <string name="salut_tout_le_monde">Salut tout le monde!</string>
+    <string name="password">mot de passe</string>
+    <string name="ok">OK</string>
+    <string name="btn1">BTN1</string>
+    <string name="btn2">BTN2</string>
+    <string name="btn3">BTN3</string>
+</resources>
